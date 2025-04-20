@@ -1,0 +1,7 @@
+fastapi 
+uvicorn
+pymongo
+python-dotenv
+pydantic[email]
+langchain_community
+langchain_openai

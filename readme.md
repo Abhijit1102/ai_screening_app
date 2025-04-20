@@ -4,45 +4,16 @@
 
 This project aims to expand existing mental health screening tools by introducing a **chatbot-based testing system**. The chatbot offers an engaging and adaptive interface tailored for both children and adults, helping to conduct mental health assessments effectively.
 
----
-
-## 🌟 Key Features
-
-- 🧒👩 **Age-based adaptive chatbot** (questions and tone)
-- 🧠 **Retrieval-Augmented Generation (RAG)** pipeline
-- ⚙️ **Model-agnostic backend architecture**
-- 📊 **Standardized rubric-based scoring system**
-- 🗃️ **MongoDB vector-based knowledge base**
-- ⚡ **FastAPI backend** with **React frontend** integration
-- 🧩 **Dynamic prompt crafting** with memory and contextual understanding
-- 🎨 **Engaging UX strategies** for different age groups
-
----
-
-## 🎯 Goals & Mid-Point Milestone
-
-### ✅ Goals
-
-- [ ] Build **age-based query generator**
-- [ ] Set up a **model-agnostic RAG** pipeline
-- [ ] Develop **plug-in architecture** to support multiple LLMs
-- [ ] Enable **retrieval from MongoDB vector store**
-- [ ] Establish **basic frontend-backend data flow** (React ↔ FastAPI)
-- [ ] Write **unit tests** and integrate **logging** for core functions
-- [ ] Create **MVP chatbot** with short screening session + rubric-based score output
-
-### 🏁 Mid-Point Milestone Achievements
-
-- ✅ Functional **age-based chatbot** with basic query routing
-- ✅ Working **retrieval pipeline** from MongoDB
-- ✅ Basic **React-FastAPI** integration
-- ✅ MVP chatbot session with **scoring**
-
+--- 
+<div style="display: flex; justify-content: space-between;">
+  <img src="chatbotUI.png" alt="Chat.bot" width="45%" />
+  <img src="resultUI.png" alt="Result.UI" width="45%" />
+</div>
 ---
 
 ## ⚙️ Setup/Installation
 
-> Follow the instructions in the `README.md` file.  
+> Follow the instructions in the `README.md` file for both forntend and backend.  
 (Installation steps to be added here once implementation begins.)
 
 ---
@@ -57,16 +28,6 @@ This project aims to expand existing mental health screening tools by introducin
 
 ---
 
-## ✅ Acceptance Criteria
-
-- ✅ Chatbot adjusts **tone and question types** for children vs. adults  
-- ✅ **MongoDB vector-based retrieval** integrated  
-- ✅ **Rubric-based scoring** works with LLM-generated answers  
-- ✅ Supports **LLM plug-ins** and **model-agnostic** design  
-- ✅ **Production-grade backend** with CI/CD  
-- ✅ Clear **logging and test coverage** for major modules  
-
----
 
 ## 🔧 Implementation Details
 
@@ -81,55 +42,3 @@ This project aims to expand existing mental health screening tools by introducin
 
 ---
 
-## 📐 Mockups/Wireframes
-
-_Mockups and design wireframes will be added here once finalized._
-
----
-
-## 📛 Product Name
-
-**AI Assisted Mental Health Screening Application**
-
-## 🏢 Organisation Name
-
-**Raj Reddy Center for Technology and Society, IIITH**
-
-## 🌐 Domain
-
-**Healthcare**
-
----
-
-## 🧰 Tech Skills Needed
-
-- Python  
-- FastAPI  
-- MongoDB  
-- React  
-- Natural Language Processing  
-- Machine Learning  
-- RESTful APIs  
-- Node.js  
-- LangChain / RAG  
-- UI/UX/Design  
-
----
-
-## 👥 Mentor(s)
-
-**TBD**
-
----
-
-## 🗂️ Category
-
-- AI  
-- Backend  
-- Frontend  
-- Machine Learning  
-- Data Science  
-- Healthcare  
-- Chatbot  
-- Research  
-- Testing  
