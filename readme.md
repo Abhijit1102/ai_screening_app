@@ -3,17 +3,18 @@
 ## 🧠 Description
 
 This project aims to expand existing mental health screening tools by introducing a **chatbot-based testing system**. The chatbot offers an engaging and adaptive interface tailored for both children and adults, helping to conduct mental health assessments effectively.
-
+---
+<div style="display: flex; justify-content: space-between;">
+  <img src="form.png" alt="form.UI" />
+</div>
 --- 
 <div style="display: flex; justify-content: space-between;">
   <img src="chatbotUI.png" alt="Chat.bot"/>
 </div>
----
 
 --- 
 <div style="display: flex; justify-content: space-between;">
-  <img src="resultUI.png" alt="Result.UI" width="45%" />
-  <img src="form.png" alt="form.UI" width="45%" />
+  <img src="form.png" alt="form.UI"/>
 </div>
 ---
 
