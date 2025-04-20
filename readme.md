@@ -7,6 +7,7 @@ This project aims to expand existing mental health screening tools by introducin
 <div style="display: flex; justify-content: space-between;">
   <img src="form.png" alt="form.UI" />
 </div>
+
 --- 
 <div style="display: flex; justify-content: space-between;">
   <img src="chatbotUI.png" alt="Chat.bot"/>
@@ -15,6 +16,11 @@ This project aims to expand existing mental health screening tools by introducin
 --- 
 <div style="display: flex; justify-content: space-between;">
   <img src="resultUI.png" alt="result.UI"/>
+</div>
+---
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="resultUI1.png" alt="result.UI1"/>
 </div>
 ---
 
